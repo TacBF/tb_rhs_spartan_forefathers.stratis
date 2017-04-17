@@ -1,0 +1,14 @@
+#define TB_loadingScreen_imagePath "spartan_forefathers.jpg"
+
+onLoadName="Spartan Forefathers";
+overviewPicture = "spartan_forefathers.jpg";
+author="Pablo J.";
+onLoadMission="Tactical Battlefield: Attack and Defend";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
+#include "tb_vehicleInit.hpp"
+#include "tb_vehicleMags.hpp"
